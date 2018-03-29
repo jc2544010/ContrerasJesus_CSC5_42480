@@ -22,7 +22,8 @@ int main()
      * awarded.
      */
 
-double books, points;
+float books,  // Number of books purchased in a month.
+      points; // Points received following how many books were purchased.
 
 cout << "Please enter the number of books you've purchased this month: \n"
      << endl;

@@ -24,7 +24,8 @@ int main()
      * is too light.
      */
     
-    double mass, weight;
+    float mass,   // Mass of the object in kg
+          weight; // Weight determined by mass * 9.8
     
     cout << "Please enter the mass of the object in kg.\n" << endl;
     
